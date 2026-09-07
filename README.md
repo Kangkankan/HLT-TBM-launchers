@@ -1,5 +1,5 @@
 # HLT-TBM-launchers
-added HLT Ballistic Missile Launcher and HLT Nuclear Ballistic Missile Launcher
+added HLT Ballistic Missile Launcher and HLT Nuclear Ballistic Missile Launcher to Nuclear Option
 
 *this mod an **unofficial** mod for [Nuclear Option®](https://store.steampowered.com/app/2168680/Nuclear_Option/) (by Shockfront Studios)and it is **not affiliated with or endorsed** by Shockfront Studios.
 
